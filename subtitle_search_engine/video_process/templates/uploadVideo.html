@@ -1,0 +1,44 @@
+<!-- upload_video.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Video Link</title>
+    <!-- Include Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .alert-success {
+            background-color: #d4edda;
+            color: #155724;
+            border-color: #c3e6cb;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1>Upload Video Link</h1>
+        {% if error_message %}
+        <div class="alert alert-danger" role="alert">
+            {{ error_message }}
+        </div>
+        {% endif %}        
+
+        <form method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="videoLink">Video Link</label>
+                <input type="text" class="form-control" id="videoLink" name="video_link"
+                    placeholder="Enter the video link" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Upload</button>
+        </form>
+
+        <!-- New Form for Searching Phrases -->
+
+    </div>
+</body>
+
+</html>

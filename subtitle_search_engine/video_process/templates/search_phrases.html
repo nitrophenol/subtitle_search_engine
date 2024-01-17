@@ -1,0 +1,32 @@
+<!-- search_phrases.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Phrases</title>
+</head>
+<body>
+
+    <h2>Search Phrases</h2>
+    {% if error_message %}
+    <div class="alert alert-danger" role="alert">
+        {{ error_message }}
+    </div>
+    {% endif %}
+
+    <form method="post" action="{% url 'search_phrases' %}">
+        {% csrf_token %}
+        
+        <label for="video_id">Video ID:</label>
+        <input type="text" name="video_id" required>
+        
+        <label for="search_phrase">Search Phrase:</label>
+        <input type="text" name="search_phrase" required>
+
+        <button type="submit">Search</button>
+    </form>
+
+</body>
+</html>

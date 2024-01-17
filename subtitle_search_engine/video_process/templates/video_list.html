@@ -1,0 +1,18 @@
+<!-- video_list.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video List</title>
+</head>
+<body>
+    <h1>Video IDs</h1>
+    <ul>
+        {% for vid_id, s3path in id_s3path_list %}
+            <li>ID: {{ vid_id }}, S3 Path: {{ s3path }}</li>
+            <br>
+        {% endfor %}
+    </ul>
+</body>
+</html>

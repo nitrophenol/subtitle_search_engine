@@ -1,0 +1,895 @@
+1
+00:00:03,404 --> 00:00:05,404
+    <i> ♪ TOOK A LOT OF TURNS ♪</i>    
+
+2
+00:00:05,506 --> 00:00:09,408
+   <i> ♪ THAT TURNED OUT WRONG ♪</i>   
+
+3
+00:00:09,477 --> 00:00:12,811
+   <i> ♪ THAT'S A WORN-OUT SONG ♪</i>  
+
+4
+00:00:14,248 --> 00:00:17,416
+         <i> ♪ DAY BY DAY,</i>         
+       <i> MOMENT BY MOMENT ♪</i>      
+
+5
+00:00:17,518 --> 00:00:18,951
+     <i> ♪ TAKIN' MY CHANCES ♪</i>     
+
+6
+00:00:19,020 --> 00:00:23,322
+     <i> ♪ TRUSTIN' MY HEART ♪</i>     
+
+7
+00:00:23,391 --> 00:00:26,158
+    <i> ♪ IT WASN'T TOO SMART ♪</i>    
+
+8
+00:00:26,227 --> 00:00:29,595
+       <i> ♪ I WILL SURVIVE,</i>       
+        <i> I WILL ENDURE ♪</i>        
+
+9
+00:00:29,663 --> 00:00:32,965
+   <i> ♪ WHEN THE GOING'S ROUGH,</i>   
+       <i> YOU CAN BE SURE ♪</i>       
+
+10
+00:00:33,067 --> 00:00:35,501
+      <i> ♪ I'LL TOUGH IT OUT,</i>     
+       <i> I WON'T GIVE IN ♪</i>       
+
+11
+00:00:35,569 --> 00:00:41,673
+     <i> ♪ IF I'M KNOCKED DOWN,</i>    
+      <i> I'LL GET UP AGAIN ♪</i>      
+
+12
+00:00:41,776 --> 00:00:46,045
+<i>♪ AS LONG AS MY DREAM'S ALIVE ♪</i> 
+
+13
+00:00:46,147 --> 00:00:50,382
+       <i> ♪ I WILL SURVIVE ♪</i>      
+
+14
+00:00:52,753 --> 00:00:54,953
+       <i> ♪ I WILL SURVIVE ♪</i>      
+
+15
+00:00:55,022 --> 00:00:55,921
+                 ALL RIGHT.     
+                COME ON NOW.    
+
+16
+00:00:56,023 --> 00:00:58,223
+       <i> "Z"...</i>                  
+
+17
+00:00:58,292 --> 00:00:58,657
+       "E"...                   
+
+18
+00:00:58,759 --> 00:01:01,293
+                   OKAY.        
+
+19
+00:01:01,395 --> 00:01:02,728
+       "R"...                   
+
+20
+00:01:02,797 --> 00:01:03,695
+       "O."                     
+
+21
+00:01:03,764 --> 00:01:05,164
+     THAT'S IT.                 
+
+22
+00:01:05,232 --> 00:01:06,498
+  I CAN HELP YOU DIG YOUR HOLE  
+
+23
+00:01:06,567 --> 00:01:08,667
+       SO YOU WON'T BE SO TIRED 
+             TO TEACH ME.       
+
+24
+00:01:08,769 --> 00:01:10,102
+    NO, I'M FINE.               
+
+25
+00:01:10,204 --> 00:01:12,104
+                  LOOK --       
+           YOU'RE A SLOW DIGGER.
+
+26
+00:01:12,206 --> 00:01:13,238
+     <i> OH HO HO.</i>                 
+
+27
+00:01:13,340 --> 00:01:14,807
+  YOU'RE TRYING TO              
+     BAG ON ME.                 
+
+28
+00:01:14,875 --> 00:01:15,841
+            <i> YEAH, I'M TRYING</i>   
+             <i> TO BAG ON YOU.</i>    
+ ALL RIGHT.                     
+
+29
+00:01:15,910 --> 00:01:17,242
+                 ALL RIGHT.     
+
+30
+00:01:17,311 --> 00:01:18,944
+         THIS WAY, WE'LL BE DONE
+            AT THE SAME TIME.   
+
+31
+00:01:19,013 --> 00:01:20,779
+WELL, IT COULDN'T HURT.         
+                          <i> YEAH.</i>
+
+32
+00:01:20,881 --> 00:01:21,246
+      GO AHEAD.                 
+
+33
+00:01:24,051 --> 00:01:24,983
+       <i> "Z"...</i>                  
+
+34
+00:01:25,086 --> 00:01:26,785
+        <i> "Z"...</i>                 
+
+35
+00:01:26,854 --> 00:01:28,954
+       <i> "E"...</i>                  
+
+36
+00:01:29,023 --> 00:01:29,922
+       NO.                      
+
+37
+00:01:29,990 --> 00:01:30,722
+ THIS HAS TO GO OUT             
+     LIKE THIS.                 
+
+38
+00:01:30,825 --> 00:01:32,925
+   THAT'S AN "R."               
+        OKAY?                   
+                    <i> OKAY.</i>      
+
+39
+00:01:33,027 --> 00:01:35,260
+                THIS ONE'S EASY.
+                "O."            
+
+40
+00:01:37,131 --> 00:01:38,997
+                     THAT'S IT. 
+
+41
+00:01:39,066 --> 00:01:40,933
+           YOU KNOW, ZERO'S NOT 
+               MY REAL NAME.    
+
+42
+00:01:41,001 --> 00:01:44,002
+      IT'S NOT?                 
+
+43
+00:01:44,071 --> 00:01:45,938
+ BUT EVEN PENDANSKI             
+  CALLS YOU "ZERO."             
+
+44
+00:01:46,040 --> 00:01:48,373
+              MY NAME'S HECTOR, 
+               HECTOR ZERONI.   
+
+45
+00:01:48,442 --> 00:01:50,075
+   HECTOR ZERONI.               
+
+46
+00:01:50,177 --> 00:01:51,276
+NICE TO MEET YOU, HECTOR.       
+
+47
+00:01:51,378 --> 00:01:53,178
+              NICE TO MEET YOU. 
+
+48
+00:01:53,280 --> 00:01:54,480
+        [ BOTH CHUCKLE ]        
+
+49
+00:01:54,582 --> 00:01:55,614
+    <i> 26 LETTERS.</i>                
+
+50
+00:01:55,683 --> 00:01:57,716
+<i>SO WE CAN DO FIVE LETTERS</i>       
+<i>A DAY FOR FOUR DAYS,</i>            
+
+51
+00:01:57,785 --> 00:01:58,984
+AND THEN SIX LETTERS            
+  ON THE FIFTH DAY.             
+
+52
+00:01:59,086 --> 00:02:00,652
+              THAT'S GOOD MATH. 
+
+53
+00:02:00,721 --> 00:02:02,654
+         I'M NOT STUPID.        
+  I KNOW EVERYONE THINKS I AM.  
+
+54
+00:02:02,723 --> 00:02:04,756
+I JUST DON'T LIKE ANSWERING     
+     STUPID QUESTIONS.          
+
+55
+00:02:04,825 --> 00:02:05,958
+                   RIGHT.       
+
+56
+00:02:06,026 --> 00:02:08,894
+YO, CAVEMAN, IT MUST            
+   BE KIND OF EASY              
+
+57
+00:02:08,963 --> 00:02:11,830
+ WORKING WITH YOUR OWN PERSONAL 
+       SLAVE AND ALL, HUH?      
+
+58
+00:02:11,932 --> 00:02:13,065
+ WHAT'S UP, STUPID?             
+
+59
+00:02:15,336 --> 00:02:16,535
+               COME ON, SQUID.  
+
+60
+00:02:16,637 --> 00:02:17,436
+         WHATEVER, MAN.         
+
+61
+00:02:21,809 --> 00:02:24,143
+                   "M"...       
+
+62
+00:02:24,245 --> 00:02:27,679
+                   "O"...       
+
+63
+00:02:27,748 --> 00:02:29,648
+                   "M."         
+
+64
+00:02:34,121 --> 00:02:36,388
+     WE WEREN'T ALWAYS HOMELESS.
+
+65
+00:02:38,292 --> 00:02:42,861
+           I REMEMBER WE USED   
+           TO LIVE IN A LOT     
+           OF DIFFERENT PLACES. 
+
+66
+00:02:42,963 --> 00:02:46,098
+              AND THEN...       
+       WE DIDN'T LIVE ANYWHERE. 
+
+67
+00:02:49,003 --> 00:02:51,503
+IT MUST HAVE BEEN HARD.         
+
+68
+00:02:51,605 --> 00:02:52,804
+                  <i> YEAH.</i>        
+
+69
+00:02:52,873 --> 00:02:55,574
+             MY MA HAD PROBLEMS,
+
+70
+00:02:55,643 --> 00:02:57,910
+  BUT SHE WOULD TRY SO HARD TO  
+   MAKE A BETTER LIFE FOR US.   
+
+71
+00:02:58,012 --> 00:02:59,578
+      <i> YEAH.</i>                    
+
+72
+00:02:59,647 --> 00:03:03,649
+       SHE ALWAYS USED TO SAY,  
+     "I LOVE YOU MORE THAN AIR."
+
+73
+00:03:03,751 --> 00:03:06,752
+           SHE COULDN'T TAKE ME 
+           EVERYWHERE SHE WENT. 
+
+74
+00:03:06,820 --> 00:03:10,455
+     I USED TO HAVE TO WAIT LIKE
+     ON A PORCH OR A PLAYGROUND.
+
+75
+00:03:10,524 --> 00:03:11,790
+                  [ SIGHS ]     
+
+76
+00:03:11,859 --> 00:03:13,125
+               THEN ONE DAY,    
+           SHE DIDN'T COME BACK.
+
+77
+00:03:16,730 --> 00:03:18,564
+WHAT HAPPENED TO HER?           
+
+78
+00:03:18,666 --> 00:03:22,201
+              [ SIGHS DEEPLY ]  
+
+79
+00:03:22,303 --> 00:03:23,569
+                I DON'T KNOW.   
+
+80
+00:03:23,637 --> 00:03:24,903
+         THAT'S WHAT BOTHERS ME 
+                THE MOST.       
+
+81
+00:03:25,005 --> 00:03:27,940
+                <i> IF I COULD,</i>    
+
+82
+00:03:28,008 --> 00:03:29,975
+       I WOULD HIRE A WHOLE TEAM
+       OF PRIVATE INVESTIGATORS 
+
+83
+00:03:30,044 --> 00:03:31,343
+             JUST TO FIND HER...
+
+84
+00:03:31,412 --> 00:03:35,380
+              OR TO FIND OUT    
+           WHAT HAPPENED TO HER.
+
+85
+00:03:35,449 --> 00:03:36,615
+                  [ SIGHS ]     
+
+86
+00:03:36,684 --> 00:03:38,617
+               I USED TO WAIT   
+               AT LANEY PARK.   
+
+87
+00:03:38,686 --> 00:03:40,919
+     LANEY PARK?                
+
+88
+00:03:40,988 --> 00:03:42,387
+                   YEAH.        
+
+89
+00:03:42,456 --> 00:03:43,021
+<i>I USED TO GO TO LANEY PARK</i>      
+      <i> ALL THE TIME.</i>            
+
+90
+00:03:43,090 --> 00:03:44,890
+             <i> OH, REALLY?</i>       
+      YEAH.                     
+
+91
+00:03:44,959 --> 00:03:47,759
+        I USED TO SLEEP         
+        IN THE TUNNEL NEXT      
+        TO THE SWINGING BRIDGE. 
+
+92
+00:03:49,797 --> 00:03:53,532
+               BUT NO BIGGIE.   
+
+93
+00:03:53,634 --> 00:03:55,634
+                 <i> [ SIGHS ]</i>     
+
+94
+00:03:55,703 --> 00:03:56,602
+         <i> Dr. Pendanski:</i>        
+     <i> LET'S GO, BOYS! LUNCH!</i>    
+
+95
+00:03:56,670 --> 00:03:59,271
+WHERE'S YOUR WHIP, CAVEMAN?     
+
+96
+00:03:59,373 --> 00:04:01,240
+YOU DON'T WANT YOUR SLAVE       
+   TO BE SLACKING OFF.          
+
+97
+00:04:01,308 --> 00:04:02,407
+  IT'S NOT SLAVERY.             
+ IT'S AN AGREEMENT.             
+
+98
+00:04:02,509 --> 00:04:04,309
+           YEAH, MAN, WHATEVER. 
+
+99
+00:04:04,378 --> 00:04:06,678
+         LINE 'EM UP.           
+         I DON'T HAVE ALL DAY.  
+         LET'S GO. LET'S GO.    
+
+100
+00:04:06,747 --> 00:04:10,682
+  <i> WE HAVE BOLOGNA AND CHEESE,</i>  
+  <i> APPLES, AND GRAHAM CRACKERS.</i> 
+
+101
+00:04:10,751 --> 00:04:12,217
+           <i> ALL RIGHT,</i>          
+      <i> LET'S MOVE IT ALONG.</i>     
+
+102
+00:04:12,319 --> 00:04:13,852
+       <i> GET YOUR SANDWICH.</i>      
+        <i> HELLO, THEODORE.</i>       
+
+103
+00:04:13,921 --> 00:04:15,787
+       THAT'S NOT MY NAME, FOOL.
+             IT'S ARMPIT.       
+
+104
+00:04:15,856 --> 00:04:17,222
+    UH-HUH. ALAN,               
+ A GOOD DAY TO YOU.             
+
+105
+00:04:17,291 --> 00:04:18,257
+         GOOD AFTERNOON.        
+
+106
+00:04:18,359 --> 00:04:19,258
+      <i> RICKY...</i>                 
+
+107
+00:04:19,326 --> 00:04:20,225
+                   <i> SIR.</i>        
+
+108
+00:04:20,294 --> 00:04:21,960
+         <i> ...SANDWICHES?</i>        
+
+109
+00:04:22,029 --> 00:04:24,129
+<i>YOU CAN HAVE ONE SANDWICH.</i>      
+ [ MAGNET SPEAKING SPANISH ]    
+
+110
+00:04:24,198 --> 00:04:25,564
+   <i> THIS IS AMERICA.</i>            
+<i>WE SPEAK ENGLISH HERE.</i>          
+
+111
+00:04:25,633 --> 00:04:28,033
+HEY, MAN, I GOT SOME            
+EXTRA GRAHAM CRACKERS.          
+
+112
+00:04:28,102 --> 00:04:30,602
+              HEY, HOW ABOUT    
+           I GIVE YOU MY COOKIE 
+
+113
+00:04:30,671 --> 00:04:32,070
+               AND YOU LET ME   
+               DIG YOUR HOLE?   
+
+114
+00:04:35,209 --> 00:04:37,142
+              <i> GO ON. TAKE IT.</i>  
+
+115
+00:04:37,244 --> 00:04:39,111
+LOOK, I GET IT, ALL RIGHT?      
+
+116
+00:04:39,179 --> 00:04:40,646
+I'LL DIG MY OWN HOLE            
+    FROM NOW ON.                
+
+117
+00:04:40,748 --> 00:04:42,581
+<i>JUST LET ME EAT MY LUNCH.</i>       
+
+118
+00:04:42,650 --> 00:04:44,549
+              [ Laughing ]      
+         HE ISN'T GONNA TAKE IT.
+               COME HERE.       
+
+119
+00:04:44,618 --> 00:04:45,884
+               EAT THE COOKIE.  
+
+120
+00:04:45,986 --> 00:04:47,452
+             <i> WHOA.</i>             
+             <i> WHOA.</i>             
+
+121
+00:04:47,521 --> 00:04:48,987
+   BACK OFF, MAN.               
+
+122
+00:04:49,056 --> 00:04:51,657
+       HEY, HEY, HEY, HEY, HEY. 
+         WHAT'S GOING ON HERE?  
+
+123
+00:04:51,759 --> 00:04:52,524
+         <i> NOTHING, MOM.</i>         
+
+124
+00:04:52,626 --> 00:04:53,825
+      <i> WE WAS JUST FOOLING,</i>     
+             <i> RIGHT?</i>            
+
+125
+00:04:53,927 --> 00:04:56,828
+       I SAW WHAT WAS GOING ON. 
+            GO ON, STANLEY.     
+
+126
+00:04:56,897 --> 00:04:59,298
+            <i> TEACH HIM A LESSON.</i>
+               <i> HIT HIM BACK.</i>   
+
+127
+00:04:59,366 --> 00:05:00,065
+      YEAH, TEACH ME A LESSON.  
+        <i> YEAH, STANLEY,</i>         
+     <i> TEACH HIM A LESSON.</i>       
+
+128
+00:05:00,134 --> 00:05:01,667
+              COME ON. HIT ME.  
+                <i> HIT HIM.</i>       
+
+129
+00:05:01,735 --> 00:05:04,770
+                COME ON.        
+           TEACH ME A LESSON.   
+      <i> HIT HIM, STANLEY.</i>        
+
+130
+00:05:05,439 --> 00:05:07,673
+       [ BOYS MURMURING ]       
+
+131
+00:05:08,375 --> 00:05:10,575
+            <i> GET HIM!</i>           
+
+132
+00:05:10,644 --> 00:05:12,010
+          <i> ALL RIGHT, ALL RIGHT.</i>
+
+133
+00:05:12,112 --> 00:05:12,477
+       UGH!                     
+
+134
+00:05:12,546 --> 00:05:14,413
+                <i> GO GET HIM.</i>    
+
+135
+00:05:16,950 --> 00:05:18,216
+               <i> THAT'S ENOUGH!</i>  
+
+136
+00:05:18,285 --> 00:05:20,285
+          [ GRUNTING ]          
+
+137
+00:05:20,354 --> 00:05:22,154
+       I SAID, "THAT'S ENOUGH!" 
+
+138
+00:05:22,923 --> 00:05:23,288
+               THAT'S ENOUGH!   
+
+139
+00:05:23,390 --> 00:05:25,090
+     [ CHOKING ]                
+
+140
+00:05:25,159 --> 00:05:27,893
+     STOP. HEY, STOP, ZERO.     
+           HEY, STOP.           
+
+141
+00:05:27,961 --> 00:05:29,361
+         <i> COME ON, MAN.</i>         
+
+142
+00:05:29,463 --> 00:05:30,329
+     [ CHOKING ]                
+
+143
+00:05:33,000 --> 00:05:34,700
+           [ GUNSHOT ]          
+ <i> NOW, I SAID, "THAT'S ENOUGH!"</i> 
+
+144
+00:05:34,768 --> 00:05:38,103
+  <i> WHEN I SAY TO END SOMETHING,</i> 
+         <i> I MEAN END IT.</i>        
+
+145
+00:05:38,172 --> 00:05:39,838
+           COME ON. LET'S GO.   
+   <i> GET BACK TO YOUR HOLES!</i>     
+
+146
+00:05:40,407 --> 00:05:41,306
+               YOU ALL RIGHT?   
+
+147
+00:05:41,408 --> 00:05:42,541
+    ZERO'S CRAZY.               
+
+148
+00:05:42,609 --> 00:05:44,009
+           NO, NO, NO.          
+         LEAVE ME ALONE.        
+
+149
+00:06:45,238 --> 00:06:47,005
+              (man)             
+My dad and I have the same eyes.
+
+150
+00:06:47,174 --> 00:06:48,006
+           Same nose.           
+
+151
+00:06:48,108 --> 00:06:49,274
+         Same toughness.        
+
+152
+00:06:49,376 --> 00:06:51,276
+       And since he's had       
+  moderate Alzheimer's disease, 
+
+153
+00:06:51,378 --> 00:06:53,044
+  the same never quit attitude. 
+
+154
+00:06:53,147 --> 00:06:54,045
+  That's why I asked his doctor 
+
+155
+00:06:54,148 --> 00:06:55,914
+   about once-a-day NAMZARIC.   
+
+156
+00:06:56,083 --> 00:06:57,015
+              (AVO)             
+      NAMZARIC is approved      
+
+157
+00:06:57,151 --> 00:06:58,116
+     for moderate to severe     
+
+158
+00:06:58,252 --> 00:06:59,651
+ Alzheimer's disease in patients
+
+159
+00:06:59,820 --> 00:07:00,986
+    who are taking donepezil.   
+
+160
+00:07:01,121 --> 00:07:02,087
+    It may improve cognition    
+
+161
+00:07:02,189 --> 00:07:03,321
+      and overall function,     
+
+162
+00:07:03,457 --> 00:07:04,389
+   and may slow the worsening   
+
+163
+00:07:04,491 --> 00:07:05,991
+    of symptoms for a while.    
+
+164
+00:07:06,126 --> 00:07:07,025
+    NAMZARIC does not change    
+
+165
+00:07:07,194 --> 00:07:08,727
+         the underlying         
+      disease progression.      
+
+166
+00:07:08,896 --> 00:07:09,861
+    Don't take if allergic to   
+
+167
+00:07:09,963 --> 00:07:11,596
+memantine, donepezil, piperidine
+
+168
+00:07:11,698 --> 00:07:13,732
+    or any of the ingredients   
+          in NAMZARIC.          
+
+169
+00:07:13,834 --> 00:07:14,933
+         Tell the doctor        
+      about any conditions      
+
+170
+00:07:15,068 --> 00:07:16,268
+ including heart, lung, bladder,
+
+171
+00:07:16,370 --> 00:07:18,603
+    kidney or liver problems,   
+    seizures, stomach ulcers,   
+
+172
+00:07:18,772 --> 00:07:20,372
+ or procedures with anesthesia. 
+
+173
+00:07:20,574 --> 00:07:23,008
+ Serious side effects may occur,
+    including muscle problems   
+
+174
+00:07:23,143 --> 00:07:24,209
+      if given anesthesia;      
+
+175
+00:07:24,311 --> 00:07:26,178
+    slow heartbeat, fainting,   
+        more stomach acid       
+
+176
+00:07:26,280 --> 00:07:28,079
+         which may lead         
+     to ulcers and bleeding;    
+
+177
+00:07:28,248 --> 00:07:29,881
+        nausea, vomiting,       
+      difficulty urinating,     
+
+178
+00:07:30,017 --> 00:07:31,983
+     seizures, and worsening    
+        of lung problems.       
+
+179
+00:07:32,085 --> 00:07:34,653
+  Most common side effects are  
+  headache, diarrhea, dizziness 
+
+180
+00:07:34,822 --> 00:07:36,621
+ loss of appetite, and bruising.
+
+181
+00:07:36,723 --> 00:07:37,589
+              (man)             
+        Dad and I shared        
+
+182
+00:07:37,691 --> 00:07:38,924
+        a lot of moments.       
+
+183
+00:07:39,026 --> 00:07:41,760
+    Now we're making the most   
+          of each one.          
+
+184
+00:07:41,929 --> 00:07:43,795
+              (AVO)             
+    Ask about NAMZARIC today.   
+
+185
+00:07:45,198 --> 00:07:47,899
+Honey, aren't we having friends 
+    over? It reeks in here.     
+
+186
+00:07:47,935 --> 00:07:49,301
+      I know [goat noise]       
+
+187
+00:07:49,336 --> 00:07:52,571
+I stole the other team's mascot 
+         for good luck.         
+
+188
+00:07:52,606 --> 00:07:53,738
+   We need to wash this room.   
+
+189
+00:07:53,774 --> 00:07:54,739
+            Wash it?            
+
+190
+00:07:54,775 --> 00:07:56,508
+  Yeah, wash it with Febreze.   
+
+191
+00:07:56,543 --> 00:07:58,510
+       For all the things       
+        you can't wash,         
+
+192
+00:07:58,545 --> 00:07:59,911
+       use Febreze Fabric       
+           Refresher            
+
+193
+00:07:59,947 --> 00:08:00,912
+              Wow               
+
+194
+00:08:00,948 --> 00:08:03,348
+      [inhales] it really       
+     smells great in here.      
+
+195
+00:08:03,383 --> 00:08:04,783
+           <i> DOG BARKS</i>           
+
+196
+00:08:04,818 --> 00:08:07,018
+  And try pluggable Febreze,    
+
+197
+00:08:07,054 --> 00:08:10,021
+     with up to 4 times the     
+    freshness in one refill.    
+
+198
+00:08:10,057 --> 00:08:12,324
+     Pluggable Febreze and      
+        Fabric Refresher        
+
+199
+00:08:12,359 --> 00:08:14,693
+[inhale + exhale mnemonic], two 
+   more ways to breathe happy   
+

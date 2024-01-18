@@ -7,7 +7,7 @@ class Video(Model):
         table_name = 'videos'
         aws_access_key_id = AWS_ACCESS_KEY_ID
         aws_secret_access_key = AWS_SECRET_ACCESS_KEY
-        region = 'eu-north-1'
+        region = AWS_S3_REGION_NAME
 
     # Use NumberAttribute for auto-incrementing integer ID
     id = UnicodeAttribute(hash_key=True, null=False)

@@ -61,6 +61,7 @@ import re
 
 def parse_srt(srt_content):
     result = []
+    srt_content=convert_to_uppercase(srt_content)
 
     # Split the SRT content into individual subtitle entries
     subtitle_entries = re.split(r'\n\d+\n', srt_content.strip())
@@ -280,7 +281,7 @@ def process_video(id):
     try:
         s3 = boto3.client('s3', aws_access_key_id= AWS_ACCESS_KEY_ID, aws_secret_access_key= AWS_SECRET_ACCESS_KEY, region_name= AWS_S3_REGION_NAME)
         s3.upload_file(output_path, AWS_STORAGE_BUCKET_NAME, f"videos/{id}.mp4")
-        ins.s3path = f"https://backendproject1.s3.ap-south-1.amazonaws.com/videos/{id}"
+        ins.s3path = f"https://backendproject1.s3.ap-south-1.amazonaws.com/videos/{id}.mp4"
         print("Uploaded to S3")
     except Exception as e:
        print(e)
@@ -298,7 +299,7 @@ def process_video(id):
     print("Saved to DB")
     delete_file(output_path)
     print("Deleted video file")
-    delete_file(f"{BASE_DIR}/subs/{id}.srt")
+   # delete_file(f"{BASE_DIR}/subs/{id}.srt")
     print("Deleted SRT file")
     return id
 

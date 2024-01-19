@@ -128,11 +128,11 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # AWS configuration
-AWS_ACCESS_KEY_ID = 'AKIASCCRGGFTRFRVDTFQ'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_STORAGE_BUCKET_NAME = 'backendproject1'
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
+AWS_STORAGE_BUCKET_NAME = ''
 AWS_S3_SIGNATURE_NAME = 's3v4',
-AWS_S3_REGION_NAME = 'ap-south-1'
+AWS_S3_REGION_NAME = ''
 AWS_S3_FILE_OVERWRITE = False
 AWS_DEFAULT_ACL =  None
 AWS_S3_VERITY = True
@@ -140,8 +140,8 @@ DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
 
 # Celery Configuration
-CELERY_BROKER_URL = 'amqps://yesauaky:3cM8Y6NUiJbfn9I2SLt2ewDzlCITQzVB@rattlesnake.rmq.cloudamqp.com/yesauaky'
-CELERY_RESULT_BACKEND = 'redis://:b08WO7T2OqpDhdLuYDNsc1EbGKy9Iiml@redis-12588.c326.us-east-1-3.ec2.cloud.redislabs.com:12588/0'
+CELERY_BROKER_URL = ''
+CELERY_RESULT_BACKEND = ''
 CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_SERIALIZER = 'json'

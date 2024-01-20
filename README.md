@@ -45,3 +45,12 @@ def search_video(video_id, search_phrase):
 def get_video_list():
     # Retrieve and display a list of processed videos with links to S3 and video IDs
     # ...
+
+## Tech Stack
+
+- **Django:** Web framework for building robust web applications.
+- **Celery:** Distributed task queue system for handling background tasks.
+- **DynamoDB:** NoSQL database service for scalable and high-performance applications.
+- **RabbitMQ:** Message broker for managing communication between components.
+- **Redis:** In-memory data store for caching and speeding up data access.
+

@@ -1,6 +1,6 @@
-# subtitle_search_engine
+# Subtitle Search Engine
 
-Subtitle Search Engine is a Django-based web application designed for uploading, processing, and searching videos based on subtitles.
+Subtitle Search Engine is a Django-based web application that enables users to upload videos, process them in the background, and search for specific phrases within the video subtitles. The application utilizes the ccextractor binary for subtitle extraction, ensuring accurate and efficient keyword indexing. Processed videos are stored in Amazon S3, and subtitle information is stored in DynamoDB. The backend processing is optimized for low-latency HTTP requests, with a maximum latency of approximately 1 second.
 
 ## Features
 
